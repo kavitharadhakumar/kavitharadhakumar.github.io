@@ -24,13 +24,13 @@ repository               : "kavitharadhakumar/kavitharadhakumar.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             :# "Your Sidebar Name"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "India"
+  employer         : #""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kavithar1991@gmail.com" 
 
   # Academic websites
   academia         : # URL
