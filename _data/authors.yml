@@ -1,3 +1,7 @@
 default:
-name: Kavitha Radhakumar
-location: India
+  name: Kavitha Radhakumar
+  avatar: images/profile.png
+  bio: "Machine Learning & AI Engineer | 10+ years experience"
+  location: India
+  email: kavithar1991@gmail.com
+  github: kavitharadhakumar
