@@ -1,6 +1,6 @@
- ---
+---
 permalink: /
-title: "About"
+title: "Kavitha Radhakumar | Machine Learning & AI Engineer"
 author_profile: true
 redirect_from:
   - /about/
