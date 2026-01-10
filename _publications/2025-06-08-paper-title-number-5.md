@@ -2,7 +2,6 @@
 title: "On the number of optimal linear index codes for unicast index coding problems"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'In this paper we present more results on the number of optimal linear index codes for unicast index coding problems.'
 date: 2016-09-15
 venue: 'IEEE Xplore'
