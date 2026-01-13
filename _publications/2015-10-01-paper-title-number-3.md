@@ -1,14 +1,10 @@
----
-title: "Paper Title Number 3"
+ ---
+title: "Single Uniprior Index Coding With Min–Max Probability of Error Over Fading Channels"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: Journals
+excerpt: 'An index coding scheme in which the source (transmitter) transmits symbols over a wireless fading channel is considered. Index codes with the transmitter using minimum number of transmissions are known as optimal index codes. Different optimal index codes give different performances in terms of probability of error in a fading environment, and this also varies from receiver to receiver. In this paper, we deal with optimal index codes, which minimizes the maximum probability of error among all the receivers. We identify a criterion for optimal index codes that minimizes the maximum probability of error among all the receivers.'
+date: 2016-11-22
+venue: 'IEEE Xplore'
+paperurl: 'https://ieeexplore.ieee.org/document/7752905'
+citation: 'IEEE Xplore. (2016). <i>Document 7752905</i>. IEEE.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
