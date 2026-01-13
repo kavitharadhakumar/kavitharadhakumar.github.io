@@ -9,4 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/document/7565030'
 citation: 'IEEE Xplore. (2016). <i>Document 7565030</i>. IEEE.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+ 
