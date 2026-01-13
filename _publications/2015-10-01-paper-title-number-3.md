@@ -1,4 +1,4 @@
- ---
+---
 title: "Single Uniprior Index Coding With Min–Max Probability of Error Over Fading Channels"
 collection: publications
 category: Journals
