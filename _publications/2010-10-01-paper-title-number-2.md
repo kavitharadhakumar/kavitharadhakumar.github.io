@@ -1,14 +1,10 @@
----
-title: "Paper Title Number 2"
+ ---
+title: "Single Uniprior Index Coding With Min–Max Probability of Error Over Fading Channels"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: Journals
+excerpt: 'In this paper, we consider unicast index coding problems and present results on the number of optimal length index codes making use of the representation of an index coding problem by an equivalent network code. Our formulation results in matrices of smaller sizes compared to the approach of Koetter and Medard (R. Koetter and M. Medard, “An algebraic approach to network coding,” IEEE/ACM Trans. Netw., vol. 11, no. 5, pp. 782-795, Oct. 2003.)'
+date: 2017-07-04
+venue: 'IEEE Xplore'
+paperurl: 'https://ieeexplore.ieee.org/document/7968369'
+citation: 'IEEE Xplore. (2016). <i>Document 7968369</i>. IEEE.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
