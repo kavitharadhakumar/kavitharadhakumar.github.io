@@ -56,4 +56,4 @@ I believe strong AI systems are not defined only by accuracy, but by their **rel
 ## Contact
 
 - **GitHub:** https://github.com/kavitharadhakumar  
-- **LinkedIn:** https://linkedin.com/in/your-linkedin
+- **LinkedIn:** https://www.linkedin.com/in/kavitha-radhakumar-2868a399/
