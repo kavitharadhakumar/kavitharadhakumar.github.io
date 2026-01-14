@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Flight Delay Analysis and Prediction System"
+excerpt: "Analyzed flight delays and cancellations using advanced analytics and machine learning models to identify key delay drivers and operational bottlenecks.Performed comprehensive exploratory data analysis (EDA) and applied SHAP-based explainability to interpret model predictions and uncover actionable insights.The insights derived support improvements in passenger experience, airline scheduling, and operational efficiency."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://github.com/kavitharadhakumar/Flight_delay_analysis.git
+ 
