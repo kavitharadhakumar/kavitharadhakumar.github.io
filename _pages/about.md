@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kavitha Radhakumar | Machine Learning & AI Engineer"
+title: "Machine Learning & AI Engineer"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,10 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am a **Machine Learning & AI Engineer with over 10 years of professional experience**, building data-driven systems that move from research and experimentation to production-ready solutions.
+I am a Machine Learning & AI Engineer with over 10 years of professional experience, building data-driven systems that progress from research and experimentation to production-ready, scalable solutions.
 
-My work spans applied machine learning, deep learning, and AI engineering, with a strong focus on **robust model development, performance evaluation, and real-world deployment constraints**. I enjoy solving ambiguous problems and translating them into measurable, scalable ML solutions.
+My career began in wireless and telecom system engineering, where I worked on PHY-layer algorithms, signal processing, and performance optimization for large-scale communication systems. In these roles, I applied early machine learning techniques to problems such as modem performance tuning, interference detection, anomaly analysis, and parameter prediction—experiences that shaped a strong systems-oriented engineering mindset.
 
+Over time, this foundation evolved into a broader focus on applied machine learning, deep learning, and AI engineering, with an emphasis on robust model development, rigorous performance evaluation, and real-world deployment constraints. I enjoy solving ambiguous problems and translating them into measurable, scalable ML solutions, bridging theoretical models with practical, production-grade AI systems.
 ---
 
 ## Technical & Research Interests
