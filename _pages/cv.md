@@ -77,7 +77,7 @@ Scholastic Honors
   * Awarded for best M.E. student in the ECE department
   * Indian Institute of Science (IISc), Bangalore
 
-* Meenakshi Award
+* Meemamsi Award
   * Awarded for academic excellence
   * Indian Institute of Science (IISc), Bangalore
  
